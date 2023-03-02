@@ -1,0 +1,76 @@
+nav {
+  background-color: #263238;
+  box-shadow: 0px 0px 20px 0px black;
+}
+.navbar {
+  width: 100%;
+  position: fixed;
+}
+.One,
+body {
+  background-color: #263238;
+}
+.One {
+  padding-top: 150px;
+}
+.two {
+  background-color: #1e272b;
+}
+.two img {
+  padding: 10px 20px;
+}
+.three {
+  padding-top: 20px;
+  background-color: #263238;
+}
+.three h3,
+.four-right h3 {
+  color: #74c633;
+}
+.img-left {
+  border: white solid 0px;
+  border-radius: 15px;
+}
+.four-right {
+  padding-left: 30px;
+}
+.five img {
+  border-radius: 70px;
+}
+.five,
+.seven a {
+  text-decoration: none;
+  color: #74c633;
+}
+.five {
+  width: 70%;
+  padding: 40px 20px;
+  background: linear-gradient(261.71deg, #485a63 13.92%, #2c3c44 84.19%);
+  border-radius: 10px;
+}
+.six .first {
+  padding: 50px 0;
+  font-size: 70px;
+}
+.seven-left,
+.seven-right,
+.seven-mid {
+  padding: 40px 20px;
+  background: linear-gradient(261.71deg, #485a63 13.92%, #2c3c44 84.19%);
+  border-radius: 10px;
+}
+footer a {
+  padding: 10px 10;
+  font-size: 20px;
+  font-weight: 100;
+  color: #74c633;
+  text-decoration: none;
+}
+footer {
+  background-color: black;
+}
+
+.seven img {
+  border-radius: 70px;
+}
+
